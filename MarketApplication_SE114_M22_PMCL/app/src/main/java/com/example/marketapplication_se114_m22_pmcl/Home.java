@@ -12,6 +12,7 @@ import com.example.marketapplication_se114_m22_pmcl.Model.Category;
 import com.example.marketapplication_se114_m22_pmcl.ViewHolder.MenuViewHolder;
 import com.example.marketapplication_se114_m22_pmcl.common.Common;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
@@ -58,11 +59,19 @@ public class Home extends AppCompatActivity {
         database=FirebaseDatabase.getInstance();
         category=database.getReference("Category");
         //  setSupportActionBar(toolbar);
+        FloatingActionButton fab=(FloatingActionButton)findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent cartIntent=new Intent(Home.this,Cart.class);
+                startActivity(cartIntent);
+            }
+        });
         binding.appBarHome.fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                Intent cartIntent=new Intent(Home.this,Cart.class);
+                startActivity(cartIntent);
             }
         });
         //DrawerLayout drawer = binding.drawerLayout;
