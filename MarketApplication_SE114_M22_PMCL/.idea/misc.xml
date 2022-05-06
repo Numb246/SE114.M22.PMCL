@@ -3,7 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1935" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1935" />
         <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/activity_food_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/activity_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/activity_order_status.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/activity_sign_in.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/activity_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/app_bar_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/content_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/food_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/fragment_gallery.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/fragment_slideshow.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/menu_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/nav_header_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/layout/order_layout.xml" value="0.264" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Study/2st/Sem-2/NM-UDDD/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/menu/home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Admin/Documents/GitHub/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.3505" />
         <entry key="..\:/Users/Admin/Documents/GitHub/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.3505" />
         <entry key="..\:/Users/Admin/Documents/GitHub/SE114.M22.PMCL/MarketApplication_SE114_M22_PMCL/app/src/main/res/drawable/ic_baseline_restaurant_24.xml" value="0.3505" />
